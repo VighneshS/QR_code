@@ -8,7 +8,7 @@ Download and install the following prerequisite(s)
 * [Python 3.7.1](https://www.python.org/ftp/python/3.7.1/python-3.7.1.exe)
 
 ## How to run
-After importing the project in your local directory and also done with setting up the [prerequisites](#prerequisites) perform the 
+After importing the project in your local directory and also done with setting up the prerequisites perform the 
 following commands in the root project folder:
 
 > pip install requirements.txt
